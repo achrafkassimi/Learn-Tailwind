@@ -69,3 +69,5 @@ src/index.html
 #05 - Margin, Padding and Border
 #06 - Custom Colors and Fonts
 #07 - Using Flexbox
+#08 - Cards
+#09 - Badges
