@@ -59,3 +59,12 @@ src/index.html
   </h1>
 </body>
 </html>
+
+
+-------------------------
+#01 - Tailwind introduction
+#02 - installation Tailwind
+#03 - HTML Template
+#04 - Fonts and Colors
+#05 - Margin, Padding and Border
+#06 - Custom Colors and Fonts
