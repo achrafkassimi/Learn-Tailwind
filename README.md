@@ -71,3 +71,4 @@ src/index.html
 #07 - Using Flexbox
 #08 - Cards
 #09 - Badges
+#10 - apply directive
