@@ -74,3 +74,6 @@ src/index.html
 #10 - apply directive
 #11 - Grid
 #12 - Buttons
+#13 - Add Icons
+
+
