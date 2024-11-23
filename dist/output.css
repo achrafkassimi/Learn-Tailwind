@@ -821,6 +821,18 @@ video {
   color: rgb(234 179 8 / var(--tw-text-opacity, 1));
 }
 
+.duration-150 {
+  transition-duration: 150ms;
+}
+
+.duration-200 {
+  transition-duration: 200ms;
+}
+
+.ease-out {
+  transition-timing-function: cubic-bezier(0, 0, 0.2, 1);
+}
+
 .card {
   position: relative;
   height: 18rem;
@@ -902,6 +914,11 @@ video {
 
 .hover\:bg-opacity-25:hover {
   --tw-bg-opacity: 0.25;
+}
+
+.hover\:text-2xl:hover {
+  font-size: 1.5rem;
+  line-height: 2rem;
 }
 
 .hover\:text-white:hover {
