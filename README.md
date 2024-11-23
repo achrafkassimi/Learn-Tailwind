@@ -67,4 +67,4 @@ src/index.html
 #03 - HTML Template
 #04 - Fonts and Colors
 #05 - Margin, Padding and Border
-#06 - Custom Colors and Fonts
+#06 - Custom Colors and Fonts   --->  https://stackoverflow.com/questions/60854215/tailwind-use-font-from-local-files-globally 

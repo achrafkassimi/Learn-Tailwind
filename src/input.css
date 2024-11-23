@@ -1,3 +1,19 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap'); */
+/* @import url(./Roboto/*.ttf); */
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+@font-face {
+    font-family: 'Roboto';
+    /* src: local('Roboto'), url("../fonts/Roboto-Regular.ttf") format('ttf'); */
+    src: url("./fonts/Roboto/Roboto-Regular.ttf");
+}
+
+@font-face {
+    font-family: 'Bokor';
+    /* src: local('Bokor'), url("../fonts/Bokor-Regular.ttf") format('ttf'); */
+    src: url("./fonts/Bokor/Bokor-Regular.ttf");
+}

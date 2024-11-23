@@ -9,6 +9,11 @@ module.exports = {
           100: "#9dc3ff",
           200: "#5b9aff"
         }
+      },
+      fontFamily: {
+        'Bokor': [ 'Bokor'],
+        'Roboto': ['Roboto']
+        // ,'Roboto','Helvetica', 'Arial', 'sans-serif'
       }
     },
   },
